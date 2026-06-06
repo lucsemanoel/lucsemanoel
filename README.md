@@ -2,11 +2,11 @@
 
 **`FullStack Developer`**
 
-My name is Lucas Emanoel, I am 22 years old and I’m from Rio Grande do Norte, Brazil. I’m currently pursuing a Bachelor's degree in Internet Systems (TSI) in the on-campus program at the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN) – Canguaretama Campus. 
+My name is Lucas Emanoel, I am 23 years old and originally from Rio Grande do Norte, Brazil. I hold a degree in Internet Systems (Technologist Program) from the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN) – Canguaretama Campus. 
 
-I hold two professional certificates: Technology Operator (Word, Excel, PowerPoint) and Junior Business Manager (Administrative Routines, HR Assistant, Telemarketing, Sales Representative). 
+I have completed professional courses in Technology Operations (Word, Excel, PowerPoint) and Junior Business Management (Administrative Routines, HR Assistance, Telemarketing, and Sales Agent), which complement my technical background with administrative and commercial knowledge. 
 
-I have basic knowledge of English, I’m hardworking, proactive, a team player, and always ready to learn new things and improve my skills.
+I have basic English proficiency and consider myself a dedicated, proactive, and committed professional. I work well in team environments, adapt quickly to new challenges, and am always seeking to improve my skills and grow professionally.
 
 ## Technologies 💻
 
