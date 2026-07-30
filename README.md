@@ -2,15 +2,11 @@
 
 **`Back-end Developer`**
 
-Back-end focused developer specializing in Python and Django, with hands-on experience building real-world management systems for small and medium-sized businesses. I hold a degree in Internet Systems Technology from the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN), where I also specialized in Software Testing Engineering through my final graduation project.
+Back-end developer focused on **Python/Django**, with hands-on experience building management systems and web applications. B.Tech in Internet Systems from **IFRN**, where I specialized in **Software Testing Engineering** through my final graduation project.
 
-I currently work in the marketing department at Mac Madeiras, where I developed **MacNF**, a tax invoice management system built with Django, Django REST Framework, PostgreSQL, and Cloudflare R2, featuring role-based access control and secure document storage in a production environment. I also work as a freelance web developer and technical support professional.
+Currently working at **Mac Madeiras**, where I developed **MacNF** using Django, Django REST Framework, PostgreSQL, and Cloudflare R2. I also work as a freelance web developer and technical support professional.
 
-Among the projects I have developed is **Smart Reservoir**, a React Native mobile application for IoT-based water reservoir monitoring, in which I was responsible for the entire Software Testing Engineering process, planning and executing **61 test cases with a 100% pass rate**. I also developed **EngList**, a construction management system featuring user authentication, project status control, and a responsive interface.
-
-I have practical knowledge of paid traffic management (Meta Ads) and administrative processes, which helps me understand both the technical and business sides of the solutions I build.
-
-I am seeking opportunities as a **Junior Developer, IT Analyst, or Technical Support Analyst**, where I can apply my skills in software development, databases, and software testing while contributing to meaningful results and continuously growing as a technology professional.
+Projects include **Smart Reservoir** (React Native + QA, 61 test cases with a 100% pass rate) and **EngList** (construction management system with authentication, project tracking, and a responsive interface).
 
 **Stack:** Python | Django | Django REST Framework | JavaScript | TypeScript | React Native | PostgreSQL | Git | SQL
 
