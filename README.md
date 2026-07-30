@@ -1,12 +1,18 @@
 ## Hello World 👋🏻
 
-**`FullStack Developer`**
+**`Back-end Developer`**
 
-My name is Lucas Emanoel, I am 23 years old and originally from Rio Grande do Norte, Brazil. I hold a degree in Internet Systems (Technologist Program) from the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN) – Canguaretama Campus. 
+Back-end focused developer specializing in Python and Django, with hands-on experience building real-world management systems for small and medium-sized businesses. I hold a degree in Internet Systems Technology from the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN), where I also specialized in Software Testing Engineering through my final graduation project.
 
-I have completed professional courses in Technology Operations (Word, Excel, PowerPoint) and Junior Business Management (Administrative Routines, HR Assistance, Telemarketing, and Sales Agent), which complement my technical background with administrative and commercial knowledge. 
+I currently work in the marketing department at Mac Madeiras, where I developed **MacNF**, a tax invoice management system built with Django, Django REST Framework, PostgreSQL, and Cloudflare R2, featuring role-based access control and secure document storage in a production environment. I also work as a freelance web developer and technical support professional.
 
-I have basic English proficiency and consider myself a dedicated, proactive, and committed professional. I work well in team environments, adapt quickly to new challenges, and am always seeking to improve my skills and grow professionally.
+Among the projects I have developed is **Smart Reservoir**, a React Native mobile application for IoT-based water reservoir monitoring, in which I was responsible for the entire Software Testing Engineering process, planning and executing **61 test cases with a 100% pass rate**. I also developed **EngList**, a construction management system featuring user authentication, project status control, and a responsive interface.
+
+I have practical knowledge of paid traffic management (Meta Ads) and administrative processes, which helps me understand both the technical and business sides of the solutions I build.
+
+I am seeking opportunities as a **Junior Developer, IT Analyst, or Technical Support Analyst**, where I can apply my skills in software development, databases, and software testing while contributing to meaningful results and continuously growing as a technology professional.
+
+**Stack:** Python | Django | Django REST Framework | JavaScript | TypeScript | React Native | PostgreSQL | Git | SQL
 
 ## Technologies 💻
 
