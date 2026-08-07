@@ -7,8 +7,6 @@ Currently working at **Mac Madeiras**, where I developed **MacNF** using Django,
 
 Projects include **Smart Reservoir** (React Native + QA, 61 test cases with a 100% pass rate) and **EngList** (construction management system with authentication, project tracking, and a responsive interface).
 
-**Stack:** Python | Django | Django REST Framework | JavaScript | TypeScript | React Native | PostgreSQL | Git | SQL
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
