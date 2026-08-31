@@ -1,11 +1,11 @@
-## Hello World
-**`Back-end Developer`**
+## Lucas Emanoel
+**`Full-stack Developer`**
 
-Back-end developer focused on **Python/Django**, with hands-on experience building management systems and web applications. B.Tech in Internet Systems from **IFRN**, where I specialized in **Software Testing Engineering** through my final graduation project.
-
-Currently working at **Mac Madeiras**, where I developed **MacNF** using Django, Django REST Framework, PostgreSQL, and Cloudflare R2. I also work as a freelance web developer and technical support professional.
-
-Projects include **Smart Reservoir** (React Native + QA, 61 test cases with a 100% pass rate) and **EngList** (construction management system with authentication, project tracking, and a responsive interface).
+Full-stack developer focused on **Python/Django** on the back-end and **JavaScript/TypeScript** on the front-end, with hands-on experience building and shipping complete web systems. Technology Degree in Internet Systems from **IFRN**, where I specialized in **Software Testing Engineering** as my graduation project.
+ 
+Currently at **Mac Madeiras**, where I developed **MacNF** - a full-stack fiscal note management system (Django REST Framework, PostgreSQL, Cloudflare R2, vanilla JS front-end) running in production with real users across 3 stores and in the process of being formalized as a paid service.
+ 
+Other projects include **EngList** (full-stack construction management system: authentication, status tracking, image upload, responsive interface), **Atuar Engenharia** (institutional landing page with animations and WhatsApp conversion flow), and **Smart Reservoir** (React Native + QA Engineering: 61 test cases across 14 test suites, 100% pass rate).
 
 ## Stack
 
@@ -27,8 +27,7 @@ Projects include **Smart Reservoir** (React Native + QA, 61 test cases with a 10
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-## Socials
+## Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luccaszzzz/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasedasilva30@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-emanoel-38a440238/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasedasilva30@gmail.com)
