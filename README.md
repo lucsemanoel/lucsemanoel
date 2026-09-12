@@ -32,5 +32,5 @@ Actively learning **Docker**, **AWS**, and **Power BI**.
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-emanoel-38a440238/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://lucsemanoel.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14171A?style=for-the-badge&logo=globe&logoColor=white)](https://lucsemanoel.github.io/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasedasilva30@gmail.com)
