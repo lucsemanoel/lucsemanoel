@@ -1,5 +1,5 @@
 ## Lucas Emanoel
-**`Fullstack Developer Jr | Python · Django · TypeScript · React Native | Docker & AWS (Learning)`**
+**`Fullstack Developer | Python · Django · TypeScript · React Native | Docker & AWS (Learning)`**
 
 Fullstack developer focused on **Python/Django** on the back-end and **JavaScript/TypeScript** on the front-end, with hands-on experience building and shipping complete web systems. Technology Degree in Internet Systems from **IFRN**, where I specialized in **Software Testing Engineering** as my graduation project.
 
